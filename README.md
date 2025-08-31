@@ -2,8 +2,8 @@
 
 `Computer science student`
 
-Hi, I'm Patrick. I'm a computer science studient and a C# | Python developper. I specialize in software engineering with a focus on backend systems and software architecture. 
-I frequently work on diverse personal projects on my free time which are available here.
+Hi, I'm Patrick. I'm a computer science student and a C# | Python developer. I specialize in software engineering, focusing on backend systems and software architecture. 
+I frequently work on various personal projects in my free time, which are available here.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubikpatrick/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kubikpatrick.github.io)
