@@ -1,4 +1,4 @@
-# Patrick Kubik
+# Kubik Patrick
 
 `Computer science student`
 
