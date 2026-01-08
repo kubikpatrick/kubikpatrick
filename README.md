@@ -10,4 +10,4 @@ I frequently work on various personal projects in my free time, which are availa
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kubikpatrick/)
 
 ## Here are the frameworks and technologies I mainly use
-[![My Skills](https://skillicons.dev/icons?i=cs,python,mysql,github,git,aws,docker,dotnet,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,mysql,github,git,aws,docker,dotnet,flutter,go)](https://skillicons.dev)
